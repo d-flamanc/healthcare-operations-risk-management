@@ -1,2 +1,3 @@
-# healthcare-operations-risk-management
-Machine learning pipeline for forecasting hospital staffed capacity risk using GBM + SVM ensemble with operational decision framework
+## Documentation
+📄 User Manual: docs/User_Manual.pdf  
+📊 Methodology: docs/Method_Presentation.pptx
