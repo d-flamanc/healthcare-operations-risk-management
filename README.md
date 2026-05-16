@@ -1,3 +1,4 @@
+<img width="546" height="304" alt="1-pager_Visual" src="https://github.com/user-attachments/assets/f4231920-b04f-45c1-9565-c860430bd554" />
 <img width="542" height="305" alt="Model_Visual" src="https://github.com/user-attachments/assets/f6e7d5c6-7382-4cb9-abea-8842963c1048" />
 
 
