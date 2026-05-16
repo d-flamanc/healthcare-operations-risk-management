@@ -1,6 +1,6 @@
+<img width="542" height="305" alt="Model_Visual" src="https://github.com/user-attachments/assets/f6e7d5c6-7382-4cb9-abea-8842963c1048" />
 # Healthcare Operations Risk Management
 ### Staffed Capacity Risk Forecasting System (GBM + SVM Ensemble)
-
 ---
 
 ## Executive Summary
